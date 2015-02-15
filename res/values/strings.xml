@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Material-ish Progress Demo</string>
+ <string-array name="progress_value_options">
+   		 <item>0%</item>
+        <item>25%</item>
+        <item>50%</item>
+        <item>75%</item>
+        <item>100%</item>
+	 	<item>Бесконечный</item>
+    </string-array>
+    <string-array name="progress_color_options">
+        <item>Голубой</item>
+        <item>Красный</item>
+        <item>Розовый</item>
+    </string-array>
+    <string-array name="wheel_color_options">
+        <item>Стандартный</item>
+        <item>Светло-серый</item>
+        <item>Серый</item>
+	</string-array>
+</resources>
